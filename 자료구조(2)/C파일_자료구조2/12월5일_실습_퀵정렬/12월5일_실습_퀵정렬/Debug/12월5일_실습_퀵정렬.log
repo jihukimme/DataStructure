@@ -1,0 +1,6 @@
+﻿  소스.c
+C:\Users\jihu\OneDrive\바탕 화면\12월5일_실습_퀵정렬\12월5일_실습_퀵정렬\소스.c(25,13): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+C:\Users\jihu\OneDrive\바탕 화면\12월5일_실습_퀵정렬\12월5일_실습_퀵정렬\소스.c(53,25): warning C4133: '함수': 'int *'과(와) 'student *' 사이의 형식이 호환되지 않습니다.
+C:\Users\jihu\OneDrive\바탕 화면\12월5일_실습_퀵정렬\12월5일_실습_퀵정렬\소스.c(74,17): warning C4133: '함수': 'student [6]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+C:\Users\jihu\OneDrive\바탕 화면\12월5일_실습_퀵정렬\12월5일_실습_퀵정렬\소스.c(63,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  12월5일_실습_퀵정렬.vcxproj -> C:\Users\jihu\OneDrive\바탕 화면\12월5일_실습_퀵정렬\Debug\12월5일_실습_퀵정렬.exe
