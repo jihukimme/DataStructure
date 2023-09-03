@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\jihu\OneDrive\바탕 화면\C파일_자료구조2\11월21일_실습_위상정렬_removed\11월21일_실습_위상정렬_removed\소스.c(67,13): warning C4101: 'node' :참조되지 않은 지역 변수입니다.
+C:\Users\jihu\OneDrive\바탕 화면\C파일_자료구조2\11월21일_실습_위상정렬_removed\11월21일_실습_위상정렬_removed\소스.c(92): warning C4716: 'topo_sort': 값을 반환해야 합니다.
+  11월21일_실습_위상정렬_removed.vcxproj -> C:\Users\jihu\OneDrive\바탕 화면\C파일_자료구조2\11월21일_실습_위상정렬_removed\Debug\11월21일_실습_위상정렬_removed.exe

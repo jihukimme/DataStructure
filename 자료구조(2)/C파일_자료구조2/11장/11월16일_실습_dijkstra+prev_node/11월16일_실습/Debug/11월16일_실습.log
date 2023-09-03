@@ -1,0 +1,3 @@
+﻿  소스.c
+C:\Users\jihu\OneDrive\바탕 화면\C파일_자료구조2\11장\11월16일_실습_dijkstra+prev_node\11월16일_실습\소스.c(84,1): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  11월16일_실습.vcxproj -> C:\Users\jihu\OneDrive\바탕 화면\C파일_자료구조2\11장\11월16일_실습_dijkstra+prev_node\Debug\11월16일_실습.exe
