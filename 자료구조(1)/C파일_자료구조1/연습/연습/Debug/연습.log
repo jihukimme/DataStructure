@@ -1,0 +1,7 @@
+﻿  연습소스.c
+C:\Users\김지후\OneDrive\바탕 화면\c언어\연습\연습\연습소스.c(1719,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\김지후\OneDrive\바탕 화면\c언어\연습\연습\연습소스.c(1724,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\김지후\OneDrive\바탕 화면\c언어\연습\연습\연습소스.c(1729,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\김지후\OneDrive\바탕 화면\c언어\연습\연습\연습소스.c(1742,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\김지후\OneDrive\바탕 화면\c언어\연습\연습\연습소스.c(1748,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\김지후\OneDrive\바탕 화면\c언어\연습\연습\연습소스.c(1754,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
