@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\jihu\OneDrive\바탕 화면\C파일_자료구조2\practice1\practice1\소스.c(772,23): warning C4047: '=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\jihu\OneDrive\바탕 화면\C파일_자료구조2\practice1\practice1\소스.c(832,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\jihu\OneDrive\바탕 화면\C파일_자료구조2\practice1\practice1\소스.c(737): warning C4716: 'init': 값을 반환해야 합니다.
+  practice1.vcxproj -> C:\Users\jihu\OneDrive\바탕 화면\C파일_자료구조2\practice1\Debug\practice1.exe
